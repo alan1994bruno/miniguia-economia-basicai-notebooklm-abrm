@@ -148,52 +148,41 @@ Realizei testes simples no chat e constatei que, enquanto para algumas perguntas
 
 ## 3. Prompts Reutilizáveis para Futura Revisões
 
-### Prompt 1: Explicar Conceito com Exemplo do Cotidiano
+### Prompt 1: Entendendo o aumento de preços no mercado
 
 ```text
-Explique [CONCEITO] usando apenas exemplos do dia a dia de quem vive de salário mínimo.
-Use linguagem de conversa, como se falasse com um vizinho na feira.
-Máximo 150 palavras, sem jargões.
+Por que o preço de coisas como [INSERIR PRODUTO, ex: arroz, feijão, carne] sobe de uma hora para outra no mercado? Explique usando a ideia de 'oferta e procura', mas com palavras bem simples, como se a gente estivesse conversando na feira.
 
 ```
 
-### Prompt 2: Gerar Exercício Prático
+### Prompt 2: Organizando o salário do mês
 
 ```text
-Crie um exercício prático sobre [TEMA] que uma pessoa com ensino fundamental possa fazer hoje mesmo.
-O exercício deve usar apenas papel, caneta e o orçamento real da casa dela.
-Inclua passo a passo e o que esperar aprender.
+Como eu posso organizar o pouco dinheiro que ganho no mês para tentar não passar aperto? Me dê 3 dicas práticas e simples de como cuidar do dinheiro, baseadas no que o material ensina sobre orçamento e controle de gastos.
 
 ```
 
-### Prompt 3: Comparar duas Opções Financeiras
+### Prompt 3: A armadilha dos juros e das parcelas
 
 ```text
-Compare [OPÇÃO A] e [OPÇÃO B] para uma família de 4 pessoas adultas que ganha 2 salários mínimos.
-Mostre prós e contras de cada uma em linguagem simples.
-Recomende uma para cada situação: (1) quando há um parente desempregado, (2) quando há dívida.
+É melhor comprar [INSERIR PRODUTO, ex: uma geladeira, uma TV] parcelado e pagando juros, ou tentar juntar o dinheiro para comprar à vista? Explique como os juros funcionam contra quem ganha pouco, mostrando os prós e contras para um adulto trabalhador.
 
 ```
 
-### Prompt 4: Simplificar Jargão Econômico
+### Prompt 4: Traduzindo o "economês" do Jornal Nacional
 
 ```text
-Traduza [JARGÃO ECONÔMICO] para linguagem de feira.
-Use máximo 3 frases, todas com no máximo 15 palavras cada.
-Inclua um exemplo concreto de como isso afeta o preço do pão ou do feijão.
+O jornal na TV sempre fala uma palavra complicada: [INSERIR PALAVRA, ex: Inflação, PIB, Taxa de Juros]. O que isso significa na vida real de quem pega ônibus e trabalha duro todo dia? Me explique em no máximo 3 frases curtas e diretas.
 
 ```
 
-### Prompt 5: Planejamento de Ação Imediata
+### Prompt 5: Entendendo o papel dos impostos
 
 ```text
-Crie um plano de 7 dias para [OBJETIVO FINANCEIRO] para alguém que trabalha 10h por dia e tem pouco tempo.
-Cada dia deve ter uma ação de no máximo 15 minutos.
-Inclua o que fazer se falhar em um dia.
+Quando eu compro um pacote de feijão ou pago a conta de luz, tem imposto embutido ali. Para onde vai e para que serve esse dinheiro que o governo arrecada? Responda de forma simples, mostrando qual é o papel do governo na economia da nossa comunidade.
 
 ```
 
----
 
 ## 4. Como Usar Este Miniguia
 
