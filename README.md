@@ -146,46 +146,51 @@ Realizei testes simples no chat e constatei que, enquanto para algumas perguntas
 
 ---
 
-## 3. Prompts Reutilizáveis para Future Revisões
+## 3. Prompts Reutilizáveis para Futura Revisões
 
 ### Prompt 1: Explicar Conceito com Exemplo do Cotidiano
 
-```
+```text
 Explique [CONCEITO] usando apenas exemplos do dia a dia de quem vive de salário mínimo.
 Use linguagem de conversa, como se falasse com um vizinho na feira.
 Máximo 150 palavras, sem jargões.
+
 ```
 
 ### Prompt 2: Gerar Exercício Prático
 
-```
+```text
 Crie um exercício prático sobre [TEMA] que uma pessoa com ensino fundamental possa fazer hoje mesmo.
 O exercício deve usar apenas papel, caneta e o orçamento real da casa dela.
 Inclua passo a passo e o que esperar aprender.
+
 ```
 
 ### Prompt 3: Comparar duas Opções Financeiras
 
-```
-Compare [OPÇÃO A] e [OPÇÃO B] para uma família de 4 pessoas que ganha 2 salários mínimos.
+```text
+Compare [OPÇÃO A] e [OPÇÃO B] para uma família de 4 pessoas adultas que ganha 2 salários mínimos.
 Mostre prós e contras de cada uma em linguagem simples.
-Recomende uma para cada situação: (1) quando há二胎, (2) quando há dívida.
+Recomende uma para cada situação: (1) quando há um parente desempregado, (2) quando há dívida.
+
 ```
 
 ### Prompt 4: Simplificar Jargão Econômico
 
-```
+```text
 Traduza [JARGÃO ECONÔMICO] para linguagem de feira.
 Use máximo 3 frases, todas com no máximo 15 palavras cada.
 Inclua um exemplo concreto de como isso afeta o preço do pão ou do feijão.
+
 ```
 
 ### Prompt 5: Planejamento de Ação Imediata
 
-```
+```text
 Crie um plano de 7 dias para [OBJETIVO FINANCEIRO] para alguém que trabalha 10h por dia e tem pouco tempo.
 Cada dia deve ter uma ação de no máximo 15 minutos.
 Inclua o que fazer se falhar em um dia.
+
 ```
 
 ---
